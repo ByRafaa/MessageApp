@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944670976168",
+    "project_id": "messageapp-e8149",
+    "storage_bucket": "messageapp-e8149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944670976168:android:7d4f7c91339ed1050a3a9d",
+        "android_client_info": {
+          "package_name": "com.trimestre2.messageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944670976168-ulo36hp9ogme6m797hqq4gl7ev23adgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfN5F5vb11h0irHlfxgYfPJrXrQVPidhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944670976168-ulo36hp9ogme6m797hqq4gl7ev23adgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
